@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(awk 'NR==511' \"D:/new/Booking Form.html\")",
+      "Bash(awk 'NR==512' \"D:/new/Booking Form.html\")",
+      "Bash(awk 'NR>=21 && NR<=510' \"D:/new/Booking Form.html\")"
+    ]
+  }
+}
